@@ -28,6 +28,7 @@
   "dependencies": {
     "loglevel": "^1.2.0"
   },
+  "types": "index.d.ts",
   "keywords": [
     "dxf",
     "cad",
