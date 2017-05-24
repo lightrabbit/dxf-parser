@@ -267,7 +267,8 @@
           },
           "textHeight": 0.09375,
           "text": "Sheet No.",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "LINE",
@@ -299,7 +300,8 @@
           },
           "textHeight": 0.09375,
           "text": "Scale:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "LINE",
@@ -349,7 +351,8 @@
           },
           "textHeight": 0.09375,
           "text": "Drawn:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -363,7 +366,8 @@
           },
           "textHeight": 0.09375,
           "text": "Date:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "LINE",
@@ -395,7 +399,8 @@
           },
           "textHeight": 0.09375,
           "text": "Project No.",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -410,7 +415,8 @@
           },
           "textHeight": 0.09375,
           "text": "Project Name:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "LINE",
@@ -569,6 +575,7 @@
           },
           "textHeight": 0.0625,
           "text": "NO.",
+          "textStyle": "FG-Title",
           "halign": 1,
           "endPoint": {
             "x": 15.43459372187382,
@@ -589,6 +596,7 @@
           },
           "textHeight": 0.0625,
           "text": "REVISION",
+          "textStyle": "FG-Title",
           "halign": 1,
           "endPoint": {
             "x": 15.43459372187382,
@@ -609,6 +617,7 @@
           },
           "textHeight": 0.0625,
           "text": "BY",
+          "textStyle": "FG-Title",
           "halign": 1,
           "endPoint": {
             "x": 15.43459372187382,
@@ -629,6 +638,7 @@
           },
           "textHeight": 0.0625,
           "text": "BY",
+          "textStyle": "FG-Title",
           "halign": 1,
           "endPoint": {
             "x": 15.47614878817657,
@@ -649,6 +659,7 @@
           },
           "textHeight": 0.0625,
           "text": "CKD",
+          "textStyle": "FG-Title",
           "halign": 1,
           "endPoint": {
             "x": 15.38472723081318,
@@ -669,6 +680,7 @@
           },
           "textHeight": 0.0625,
           "text": "DATE",
+          "textStyle": "FG-Title",
           "halign": 1,
           "endPoint": {
             "x": 15.47614878817657,
@@ -689,6 +701,7 @@
           },
           "textHeight": 0.0625,
           "text": "ISSUE",
+          "textStyle": "FG-Title",
           "halign": 1,
           "endPoint": {
             "x": 15.38472723081318,
@@ -983,7 +996,8 @@
           },
           "textHeight": 0.09375,
           "text": "Sheet Title:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -999,7 +1013,8 @@
             "z": 0
           },
           "textHeight": 0.0646223872815218,
-          "text": "PRODUCTS, INC."
+          "text": "PRODUCTS, INC.",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "TEXT",
@@ -1015,7 +1030,8 @@
             "z": 0
           },
           "textHeight": 0.0646223872815218,
-          "text": "AMERICAN"
+          "text": "AMERICAN",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "TEXT",
@@ -1031,7 +1047,8 @@
             "z": 0
           },
           "textHeight": 0.0939961996822135,
-          "text": "CONTACT:KERRI BEALS"
+          "text": "CONTACT:KERRI BEALS",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "TEXT",
@@ -1047,7 +1064,8 @@
             "z": 0
           },
           "textHeight": 0.0939961996822135,
-          "text": "12157 W LINEBAUGH AVENUE #335"
+          "text": "12157 W LINEBAUGH AVENUE #335",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "TEXT",
@@ -1063,7 +1081,8 @@
             "z": 0
           },
           "textHeight": 0.0939961996822135,
-          "text": "AMERICAN PRODUCTS, INC. (API)"
+          "text": "AMERICAN PRODUCTS, INC. (API)",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "TEXT",
@@ -1079,7 +1098,8 @@
             "z": 0
           },
           "textHeight": 0.0939961996822135,
-          "text": "PH (813)925-0144 /"
+          "text": "PH (813)925-0144 /",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "TEXT",
@@ -1095,7 +1115,8 @@
             "z": 0
           },
           "textHeight": 0.0939961996822135,
-          "text": "TAMPA, FL 33626"
+          "text": "TAMPA, FL 33626",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "TEXT",
@@ -1111,7 +1132,8 @@
             "z": 0
           },
           "textHeight": 0.0939961996822135,
-          "text": "WWW.AMERICANPROD.COM"
+          "text": "WWW.AMERICANPROD.COM",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "LWPOLYLINE",
@@ -1174,6 +1196,7 @@
           "textHeight": 0.188,
           "text": "FLORIDA GLASS",
           "xScale": 0.85,
+          "textStyle": "TB-Logo",
           "halign": 1,
           "endPoint": {
             "x": 15.80487678893379,
@@ -1195,6 +1218,7 @@
           "textHeight": 0.188,
           "text": "OF TAMPA BAY",
           "xScale": 0.85,
+          "textStyle": "TB-Logo",
           "halign": 1,
           "endPoint": {
             "x": 16.1156678639845,
@@ -1215,6 +1239,7 @@
           "textHeight": 0.0625,
           "text": "13009 LYNMAR BOULEVARD",
           "xScale": 0.85,
+          "textStyle": "FG-Note",
           "halign": 1,
           "endPoint": {
             "x": 15.875,
@@ -1235,6 +1260,7 @@
           "textHeight": 0.0625,
           "text": "TAMPA, FLORIDA 33626",
           "xScale": 0.85,
+          "textStyle": "FG-Note",
           "halign": 1,
           "endPoint": {
             "x": 15.875,
@@ -1255,6 +1281,7 @@
           "textHeight": 0.0625,
           "text": "PHONE: (813) 925-1330",
           "xScale": 0.85,
+          "textStyle": "FG-Note",
           "halign": 1,
           "endPoint": {
             "x": 15.875,
@@ -1275,6 +1302,7 @@
           "textHeight": 0.0625,
           "text": "FAX: (813) 925-1331",
           "xScale": 0.85,
+          "textStyle": "FG-Note",
           "halign": 1,
           "endPoint": {
             "x": 15.875,
@@ -6578,7 +6606,8 @@
           },
           "textHeight": 0.09375,
           "text": "Sheet No.",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "LINE",
@@ -6610,7 +6639,8 @@
           },
           "textHeight": 0.09375,
           "text": "Scale:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "LINE",
@@ -6660,7 +6690,8 @@
           },
           "textHeight": 0.09375,
           "text": "Drawn:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -6674,7 +6705,8 @@
           },
           "textHeight": 0.09375,
           "text": "Date:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "LINE",
@@ -6706,7 +6738,8 @@
           },
           "textHeight": 0.09375,
           "text": "Project No.",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -6721,7 +6754,8 @@
           },
           "textHeight": 0.09375,
           "text": "Project Name:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "LINE",
@@ -6880,6 +6914,7 @@
           },
           "textHeight": 0.0625,
           "text": "NO.",
+          "textStyle": "FG-Title",
           "halign": 1,
           "endPoint": {
             "x": 15.43459372187382,
@@ -6900,6 +6935,7 @@
           },
           "textHeight": 0.0625,
           "text": "REVISION",
+          "textStyle": "FG-Title",
           "halign": 1,
           "endPoint": {
             "x": 15.43459372187382,
@@ -6920,6 +6956,7 @@
           },
           "textHeight": 0.0625,
           "text": "BY",
+          "textStyle": "FG-Title",
           "halign": 1,
           "endPoint": {
             "x": 15.43459372187382,
@@ -6940,6 +6977,7 @@
           },
           "textHeight": 0.0625,
           "text": "BY",
+          "textStyle": "FG-Title",
           "halign": 1,
           "endPoint": {
             "x": 15.47614878817657,
@@ -6960,6 +6998,7 @@
           },
           "textHeight": 0.0625,
           "text": "CKD",
+          "textStyle": "FG-Title",
           "halign": 1,
           "endPoint": {
             "x": 15.38472723081318,
@@ -6980,6 +7019,7 @@
           },
           "textHeight": 0.0625,
           "text": "DATE",
+          "textStyle": "FG-Title",
           "halign": 1,
           "endPoint": {
             "x": 15.47614878817657,
@@ -7000,6 +7040,7 @@
           },
           "textHeight": 0.0625,
           "text": "ISSUE",
+          "textStyle": "FG-Title",
           "halign": 1,
           "endPoint": {
             "x": 15.38472723081318,
@@ -7294,7 +7335,8 @@
           },
           "textHeight": 0.09375,
           "text": "Sheet Title:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -7309,7 +7351,8 @@
             "z": 0
           },
           "textHeight": 0.0646223872815218,
-          "text": "PRODUCTS, INC."
+          "text": "PRODUCTS, INC.",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "TEXT",
@@ -7324,7 +7367,8 @@
             "z": 0
           },
           "textHeight": 0.0646223872815218,
-          "text": "AMERICAN"
+          "text": "AMERICAN",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "TEXT",
@@ -7339,7 +7383,8 @@
             "z": 0
           },
           "textHeight": 0.0939961996822135,
-          "text": "CONTACT:KERRI BEALS"
+          "text": "CONTACT:KERRI BEALS",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "TEXT",
@@ -7354,7 +7399,8 @@
             "z": 0
           },
           "textHeight": 0.0939961996822135,
-          "text": "12157 W LINEBAUGH AVENUE #335"
+          "text": "12157 W LINEBAUGH AVENUE #335",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "TEXT",
@@ -7369,7 +7415,8 @@
             "z": 0
           },
           "textHeight": 0.0939961996822135,
-          "text": "AMERICAN PRODUCTS, INC. (API)"
+          "text": "AMERICAN PRODUCTS, INC. (API)",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "TEXT",
@@ -7384,7 +7431,8 @@
             "z": 0
           },
           "textHeight": 0.0939961996822135,
-          "text": "PH (813)925-0144 /"
+          "text": "PH (813)925-0144 /",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "TEXT",
@@ -7399,7 +7447,8 @@
             "z": 0
           },
           "textHeight": 0.0939961996822135,
-          "text": "TAMPA, FL 33626"
+          "text": "TAMPA, FL 33626",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "TEXT",
@@ -7414,7 +7463,8 @@
             "z": 0
           },
           "textHeight": 0.0939961996822135,
-          "text": "WWW.AMERICANPROD.COM"
+          "text": "WWW.AMERICANPROD.COM",
+          "textStyle": "APIFINISH"
         },
         {
           "type": "LWPOLYLINE",
@@ -7478,6 +7528,7 @@
           "textHeight": 0.188,
           "text": "FLORIDA GLASS",
           "xScale": 0.85,
+          "textStyle": "TB-Logo",
           "halign": 1,
           "endPoint": {
             "x": 15.80487678893379,
@@ -7500,6 +7551,7 @@
           "textHeight": 0.188,
           "text": "OF TAMPA BAY",
           "xScale": 0.85,
+          "textStyle": "TB-Logo",
           "halign": 1,
           "endPoint": {
             "x": 16.1156678639845,
@@ -7521,6 +7573,7 @@
           "textHeight": 0.0625,
           "text": "13009 LYNMAR BOULEVARD",
           "xScale": 0.85,
+          "textStyle": "FG-Note",
           "halign": 1,
           "endPoint": {
             "x": 15.875,
@@ -7542,6 +7595,7 @@
           "textHeight": 0.0625,
           "text": "TAMPA, FLORIDA 33626",
           "xScale": 0.85,
+          "textStyle": "FG-Note",
           "halign": 1,
           "endPoint": {
             "x": 15.875,
@@ -7563,6 +7617,7 @@
           "textHeight": 0.0625,
           "text": "PHONE: (813) 925-1330",
           "xScale": 0.85,
+          "textStyle": "FG-Note",
           "halign": 1,
           "endPoint": {
             "x": 15.875,
@@ -7584,6 +7639,7 @@
           "textHeight": 0.0625,
           "text": "FAX: (813) 925-1331",
           "xScale": 0.85,
+          "textStyle": "FG-Note",
           "halign": 1,
           "endPoint": {
             "x": 15.875,
@@ -7632,7 +7688,8 @@
             "z": 0
           },
           "textHeight": 0.25,
-          "text": "%%UTypical Assembly Detail"
+          "text": "%%UTypical Assembly Detail",
+          "textStyle": "FG-Title"
         },
         {
           "type": "TEXT",
@@ -7646,7 +7703,8 @@
             "z": 0
           },
           "textHeight": 0.25,
-          "text": "%%UTypical Horizontal /"
+          "text": "%%UTypical Horizontal /",
+          "textStyle": "FG-Title"
         },
         {
           "type": "TEXT",
@@ -7660,7 +7718,8 @@
             "z": 0
           },
           "textHeight": 0.25,
-          "text": "%%UVertical Intersection"
+          "text": "%%UVertical Intersection",
+          "textStyle": "FG-Title"
         },
         {
           "type": "INSERT",
@@ -8229,6 +8288,7 @@
           },
           "textHeight": 0.125,
           "text": "Section",
+          "textStyle": "FG-Title",
           "endPoint": {
             "x": 0.0411014722480356,
             "y": -0.117137496905297,
@@ -8283,7 +8343,8 @@
             "z": 0
           },
           "textHeight": 0.09375,
-          "text": "SCALE:"
+          "text": "SCALE:",
+          "textStyle": "FG-Title"
         },
         {
           "type": "TEXT",
@@ -8296,7 +8357,8 @@
             "z": 0
           },
           "textHeight": 0.09375,
-          "text": "ARCH. REF."
+          "text": "ARCH. REF.",
+          "textStyle": "FG-Title"
         },
         {
           "type": "LWPOLYLINE",
@@ -8430,6 +8492,7 @@
           },
           "textHeight": 0.125,
           "text": "Detail",
+          "textStyle": "FG-Title",
           "endPoint": {
             "x": 0.0411014722480356,
             "y": -0.117137496905297,
@@ -8484,7 +8547,8 @@
             "z": 0
           },
           "textHeight": 0.09375,
-          "text": "SCALE:"
+          "text": "SCALE:",
+          "textStyle": "FG-Title"
         },
         {
           "type": "TEXT",
@@ -8497,7 +8561,8 @@
             "z": 0
           },
           "textHeight": 0.09375,
-          "text": "ARCH. REF."
+          "text": "ARCH. REF.",
+          "textStyle": "FG-Title"
         },
         {
           "type": "LWPOLYLINE",
@@ -8879,6 +8944,7 @@
           },
           "textHeight": 0.1,
           "text": "C",
+          "textStyle": "ITALIC",
           "halign": 1,
           "endPoint": {
             "x": 0,
@@ -8899,6 +8965,7 @@
           },
           "textHeight": 0.125,
           "text": "L",
+          "textStyle": "ITALIC",
           "halign": 1,
           "endPoint": {
             "x": 0,
@@ -15501,6 +15568,7 @@
           },
           "textHeight": 0.1,
           "text": "sym",
+          "textStyle": "ITALIC",
           "halign": 1,
           "endPoint": {
             "x": 0.0011131493913883,
@@ -60130,7 +60198,8 @@
           },
           "textHeight": 0.0646223872815218,
           "text": "PRODUCTS, INC.",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60146,7 +60215,8 @@
           },
           "textHeight": 0.0646223872815218,
           "text": "AMERICAN",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60162,7 +60232,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "CONTACT: KERRI BEALS",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60178,7 +60249,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "12157 W. LINEBAUGH AVENUE #335",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60194,7 +60266,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "AMERICAN PRODUCTS, INC. (API)",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60210,7 +60283,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "PH (813)925-0144",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60226,7 +60300,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "TAMPA, FL 33626",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60242,7 +60317,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "WWW.AMERICANPROD.COM",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "LWPOLYLINE",
@@ -60279,7 +60355,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "with storefront elevations and section",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60295,7 +60372,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "API Recommends that this note appear",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60311,7 +60389,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "view details in your blueprints.",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "LINE",
@@ -60345,7 +60424,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "American Products, Inc. (API). No substitutions",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60361,7 +60441,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "Storefront and related materials provided by",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60377,7 +60458,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "without written consent from store owner/",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60393,7 +60475,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "Architect. API (813)925-0144",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "LINE",
@@ -60427,7 +60510,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "Customer:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60443,7 +60527,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "Assembly:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60459,7 +60544,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "Scale:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60475,7 +60561,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "Drawn By:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "TEXT",
@@ -60491,7 +60578,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "Date:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "LINE",
@@ -60525,7 +60613,8 @@
           },
           "textHeight": 0.0939961996822135,
           "text": "Sheet:",
-          "xScale": 0.85
+          "xScale": 0.85,
+          "textStyle": "FG-Note"
         },
         {
           "type": "ATTDEF",
