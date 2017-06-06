@@ -119,9 +119,15 @@ declare namespace DxfParser {
         type: "MTEXT";
 
         text: string;
+        textStyle: string;
         position: Point;
+        xAxisDirection: Point;
         height: number;
         width: number;
+        /**
+         * Rotation angle in radians
+         */
+        rotation: number;
         attachmentPoint: number;
         drawingDirection: number;
     }
