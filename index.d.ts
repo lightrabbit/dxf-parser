@@ -99,6 +99,26 @@ declare namespace DxfParser {
         angleLength?: number;
     }
 
+    export interface ELLIPSE extends EntityBase {
+        type: "ELLIPSE";
+        center: Point;
+        /**
+         * Endpoint of major axis, relative to the center
+         */
+        endPoint: Point;
+
+        /**
+         * Ratio of minor axis to major axis
+         */
+        ratio: number;
+
+        startAngle?: radian;
+        endAngle?: radian;
+        angleLength?: radian;
+
+        extrusionDirection?: Point;
+    }
+
     export interface TEXT extends EntityBase {
         type: "TEXT";
 
@@ -221,6 +241,7 @@ declare namespace DxfParser {
         POLYLINE |
         LINE |
         CIRCLE |
+        ELLIPSE |
         TEXT |
         MTEXT |
         ATTDEF |
