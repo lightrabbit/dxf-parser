@@ -1,4 +1,7 @@
 declare namespace DxfParser {
+    type degree = number;
+    type radian = number;
+
     export interface Point {
         x: number;
         y: number;
@@ -24,6 +27,7 @@ declare namespace DxfParser {
         lineTypeScale?: string;
         visible?: boolean;
 
+        /** Acad Index Color. 0 inherits ByBlock. 256 inherits ByLayer. Default is bylayer */
         colorIndex?: number;
         color?: number;
 
@@ -129,7 +133,7 @@ declare namespace DxfParser {
         /**
          * Rotation in degrees
          */
-        rotation?: number;
+        rotation?: degree;
         text: string;
         halign: string;
         valign: string;
@@ -141,13 +145,13 @@ declare namespace DxfParser {
         text: string;
         textStyle: string;
         position: Point;
-        xAxisDirection: Point;
+        xAxisDirection?: Point;
         height: number;
         width: number;
         /**
          * Rotation angle in radians
          */
-        rotation: number;
+        rotation?: radian;
         attachmentPoint: number;
         drawingDirection: number;
     }
@@ -268,7 +272,8 @@ declare namespace DxfParser {
         name: string;
         flags: number;
         visible: boolean;
-        color: number
+        colorIndex: number;
+        color: number;
     }
 
     export interface DxfDoc {
